@@ -1,0 +1,12 @@
+name: NAICSCodeAnalyzer
+title: NAICSCodeAnalyzer
+username:
+account: ranalyzer
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3923191
+bundleId: 4442481
+url: https://ranalyzer.shinyapps.io/NAICSCodeAnalyzer/
+when: 1617808620.25235
+asMultiple: FALSE
+asStatic: FALSE

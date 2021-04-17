@@ -1,0 +1,13 @@
+name: Industrycode
+title: Industrycode
+username:
+account: ranalyzer
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3975877
+bundleId: 4480448
+url: https://ranalyzer.shinyapps.io/Industrycode/
+when: 1618584915.62058
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|industry_sim_4_digit.csv|industry_sim_6_digit.csv|Naics.R

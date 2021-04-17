@@ -1,0 +1,12 @@
+name: IndustryCodeNaics
+title: IndustryCodeNaics
+username:
+account: nyuprof
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3923907
+bundleId: 4442612
+url: https://nyuprof.shinyapps.io/IndustryCodeNaics/
+when: 1617810319.47596
+asMultiple: FALSE
+asStatic: FALSE
