@@ -71,7 +71,7 @@ function(input, output, session){
     tfidf_6 <- DocumentTermMatrix(corpus_cleaned6,control = list(weighting = weightTfIdf))
     tfidf_m6 = as.matrix(tfidf_6)
     # Calculate Cosine Similarity for each digit 
-    tfidf_cos_sim6 = cos_sim(tfidf_m6)
+    tfidf_cos_sim6 = round(cos_sim(tfidf_m6), digits = 2)
     # Create columns for similarity_score and corresponding code 
     d_6digit_bs["naics_6digit"] = code_6digit
     d_6digit_bs["similarity_score"] = tfidf_cos_sim6[1:ncol(tfidf_cos_sim6)]
@@ -115,7 +115,7 @@ function(input, output, session){
     tfidf_4 <- DocumentTermMatrix(corpus_cleaned4,control = list(weighting = weightTfIdf))
     tfidf_m4 = as.matrix(tfidf_4)
     # Calculate Cosine Similarity for each digit 
-    tfidf_cos_sim4 = cos_sim(tfidf_m4)
+    tfidf_cos_sim4 = round(cos_sim(tfidf_m4), digits = 2)
     # Create columns for similarity_score and corresponding code 
     d_4digit_bs["naics_4digit"] = code_4digit
     d_4digit_bs["similarity_score"] = tfidf_cos_sim4[1:ncol(tfidf_cos_sim4)]
