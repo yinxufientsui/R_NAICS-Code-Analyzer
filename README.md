@@ -35,10 +35,10 @@ install.packages("shiny")
 * Download the neccessary industry code data under same directory as your r file
 * Create a copy of the business description as text file and save in local. 
 Note: The business description should be saved as a UTF-8 encoded text files, with ".txt" as suffix.".docx" or ".pdf" will not be accepted by the tool. 
-- For Windows: Open "Notepad", type or copy the business description, and "save as" 
-![image](https://user-images.githubusercontent.com/82678386/115897638-a04e4d80-a42a-11eb-8dde-9c537775be2e.png)
+For Windows: Open "Notepad", type or copy the business description, and "save as" 
+![image](https://user-images.githubusercontent.com/82678386/115898921-228b4180-a42c-11eb-9683-69e533e03ff6.png)
 
-- For Mac: 
+For Mac: 
 1. Open "TextEdit",type or copy the business description
 <img width="600" alt="Screen Shot 2021-04-23 at 11 38 54 AM" src="https://user-images.githubusercontent.com/82678386/115897767-c542c080-a42a-11eb-875f-1def5b80e624.png">
 2. Click "Format", and choose "Make Plain Text" 
