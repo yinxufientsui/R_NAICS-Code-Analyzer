@@ -37,7 +37,7 @@ install.packages("shiny")
 
 Note: The business description should be saved as a UTF-8 encoded text files, with ".txt" as suffix.".docx" or ".pdf" will not be accepted by the tool. 
 - For Windows: Open "Notepad", type or copy the business description, and "save as" 
-![image](https://user-images.githubusercontent.com/82678386/115898921-228b4180-a42c-11eb-9683-69e533e03ff6.png)
+![115898921-228b4180-a42c-11eb-9683-69e533e03ff6](https://user-images.githubusercontent.com/82678386/116929742-d8287280-ac2c-11eb-83f1-13f8203930c6.png)
 
 - For Mac: 
 1. Open "TextEdit",type or copy the business description
